@@ -3,25 +3,28 @@
 Personal Website
 
 This repository contains the code for the personal website project. The website is designed to be a simple, modern, and responsive platform to display personal information and contact details.
+        
+# Project Overview
 
-Project Overview
+For any inquiries or feedback, feel free to reach out via the following channels:
+ • Email: your-email@example.com
 
 This personal website serves as a digital portfolio to showcase key achievements, skills, and professional background. The website includes the following sections:
  • Home: An introductory page providing a brief overview of the individual.
  • About: A section detailing the individual’s skills, background, and career experience.
  • Contact: A section with contact details and a form for communication.
 
-Features
+# Features
  • Responsive Design: The website adjusts to different screen sizes and devices, ensuring a seamless user experience on both mobile and desktop platforms.
  • Modern User Interface: A clean, simple design that focuses on content without distractions.
  • Interactive Elements: Includes interactive features such as forms and other dynamic components to enhance user engagement.
 
-Technology Stack
+# Technology Stack
  • HTML: For structuring the website content and layout.
  • CSS: For styling and ensuring an appealing visual presentation.
  • JavaScript: For adding interactivity and dynamic content, such as form validation.
 
-Installation
+# Installation
  1. Clone the repository to your local machine:
   git clone https://github.com/Raghad1110/Personal-website.git
 2. Navigate to the project directory:
@@ -29,7 +32,7 @@ cd Personal-website
 
 3. Open the index.html file in your browser to preview the website locally.
 
-Usage
+ # Usage
 
 To customize the website:
  1. Edit the index.html file to update personal information, add new sections, or modify content.
