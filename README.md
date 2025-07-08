@@ -38,6 +38,10 @@ To customize the website:
  1. Edit the index.html file to update personal information, add new sections, or modify content.
  2. Adjust the appearance by editing the styles.css file.
  3. Modify interactive components like forms by editing the script.js file.
+
+     # The personal web page:
+    https://b0149478-9e1b-47ce-916d-b1eba816a400-00-21fctqgq59u5k.pike.replit.dev/
+    
     
  Contact
 
